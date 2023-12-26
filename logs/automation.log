@@ -1,0 +1,63 @@
+20:18:23.411 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+20:18:29.962 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+20:18:30.161 [main] INFO  testCases.TC001_NewAccount - Entered data in Full Name
+20:18:31.461 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+20:18:31.486 [main] INFO  testCases.TC001_NewAccount - Entered data in Rediffmail ID
+20:18:33.678 [main] INFO  testCases.TC001_NewAccount - Clicked on available email id
+20:18:33.870 [main] INFO  testCases.TC001_NewAccount - Entered data in Password
+20:18:34.008 [main] INFO  testCases.TC001_NewAccount - Clicked on Alternate ID
+20:18:34.832 [main] INFO  testCases.TC001_NewAccount - Selected date
+20:18:35.035 [main] INFO  testCases.TC001_NewAccount - Selected country
+20:18:40.704 [main] INFO  testCases.TC001_NewAccount - Total no of Countries in Drop down is displayed
+20:18:40.704 [main] INFO  testCases.TC001_NewAccount - Validating whether the expected Counrty is selected
+20:18:40.829 [main] INFO  testCases.TC001_NewAccount - *** Finishing TC001_NewAccount ***
+20:19:03.082 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+20:19:03.146 [main] ERROR testCases.TC001_NewAccount - Test Failed
+20:19:30.274 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+20:19:32.898 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+20:19:33.031 [main] INFO  testCases.TC001_NewAccount - Entered data in Full Name
+20:19:33.187 [main] INFO  testCases.TC001_NewAccount - Entered data in Rediffmail ID
+20:19:33.699 [main] INFO  testCases.TC001_NewAccount - Clicked on available email id
+20:19:33.829 [main] INFO  testCases.TC001_NewAccount - Entered data in Password
+20:19:33.938 [main] INFO  testCases.TC001_NewAccount - Clicked on Alternate ID
+20:19:34.587 [main] INFO  testCases.TC001_NewAccount - Selected date
+20:19:34.762 [main] INFO  testCases.TC001_NewAccount - Selected country
+20:19:39.055 [main] INFO  testCases.TC001_NewAccount - Total no of Countries in Drop down is displayed
+20:19:39.055 [main] INFO  testCases.TC001_NewAccount - Validating whether the expected Counrty is selected
+20:19:39.186 [main] INFO  testCases.TC001_NewAccount - *** Finishing TC001_NewAccount ***
+20:37:31.170 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+20:37:36.051 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+20:37:36.208 [main] INFO  testCases.TC001_NewAccount - Entered data in Full Name
+20:37:36.373 [main] INFO  testCases.TC001_NewAccount - Entered data in Rediffmail ID
+20:37:37.265 [main] INFO  testCases.TC001_NewAccount - Clicked on available email id
+20:37:37.394 [main] INFO  testCases.TC001_NewAccount - Entered data in Password
+20:37:37.507 [main] INFO  testCases.TC001_NewAccount - Clicked on Alternate ID
+20:37:38.226 [main] INFO  testCases.TC001_NewAccount - Selected date
+20:37:38.399 [main] INFO  testCases.TC001_NewAccount - Selected country
+20:37:43.913 [main] INFO  testCases.TC001_NewAccount - Total no of Countries in Drop down is displayed
+20:37:43.913 [main] INFO  testCases.TC001_NewAccount - Validating whether the expected Counrty is selected
+20:37:44.033 [main] INFO  testCases.TC001_NewAccount - *** Finishing TC001_NewAccount ***
+22:10:02.887 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+22:10:06.016 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+22:10:06.228 [main] INFO  testCases.TC001_NewAccount - Entered data in Full Name
+22:10:06.438 [main] INFO  testCases.TC001_NewAccount - Entered data in Rediffmail ID
+22:10:07.026 [main] INFO  testCases.TC001_NewAccount - Clicked on available email id
+22:10:07.175 [main] INFO  testCases.TC001_NewAccount - Entered data in Password
+22:10:07.294 [main] INFO  testCases.TC001_NewAccount - Clicked on Alternate ID
+22:10:08.040 [main] INFO  testCases.TC001_NewAccount - Selected date
+22:10:08.224 [main] INFO  testCases.TC001_NewAccount - Selected country
+22:10:12.248 [main] INFO  testCases.TC001_NewAccount - Total no of Countries in Drop down is displayed
+22:10:12.249 [main] INFO  testCases.TC001_NewAccount - Validating whether the expected Counrty is selected
+22:10:12.352 [main] INFO  testCases.TC001_NewAccount - *** Finishing TC001_NewAccount ***
+22:38:44.132 [main] INFO  testCases.TC001_NewAccount - *** Starting TC001_NewAccount ***
+22:38:46.757 [main] INFO  testCases.TC001_NewAccount - Clicked on Create a New Account
+22:38:46.912 [main] INFO  testCases.TC001_NewAccount - Entered data in Full Name
+22:38:47.067 [main] INFO  testCases.TC001_NewAccount - Entered data in Rediffmail ID
+22:38:47.661 [main] INFO  testCases.TC001_NewAccount - Clicked on available email id
+22:38:47.817 [main] INFO  testCases.TC001_NewAccount - Entered data in Password
+22:38:47.948 [main] INFO  testCases.TC001_NewAccount - Clicked on Alternate ID
+22:38:48.690 [main] INFO  testCases.TC001_NewAccount - Selected date
+22:38:48.852 [main] INFO  testCases.TC001_NewAccount - Selected country
+22:38:53.129 [main] INFO  testCases.TC001_NewAccount - Total no of Countries in Drop down is displayed
+22:38:53.129 [main] INFO  testCases.TC001_NewAccount - Validating whether the expected Counrty is selected
+22:38:53.224 [main] INFO  testCases.TC001_NewAccount - *** Finishing TC001_NewAccount ***
